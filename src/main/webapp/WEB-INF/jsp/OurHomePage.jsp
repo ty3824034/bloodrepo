@@ -91,12 +91,12 @@ For Further more queries, access in to the system and get connected with us to g
       <div class="w3-third">
         <p><font size='3' color='voilet'><b>Vishal Yadav</b></font></p>
         <img src="/images/vishal.jpeg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
-        <p><font size='3' color='voilet'><b>Tester</b></font></p>
+        <p><font size='3' color='voilet'><b>Tester and Analyser</b></font></p>
       </div>
       <div class="w3-third">
         <p><font size='3' color='voilet'><b>Abhey Gupta</b></font></p>
         <img src="/images/abhey.jpeg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
-        <p><font size='3' color='voilet'><b>Advisor</b></font></p>
+        <p><font size='3' color='voilet'><b>Presentor and Manager</b></font></p>
       </div>
     </div>
   </div>
@@ -145,7 +145,7 @@ For Further more queries, access in to the system and get connected with us to g
     <div class="w3-modal-content w3-animate-top w3-card-4">
       <header class="w3-container w3-teal w3-center w3-padding-32"> 
         <span onclick="document.getElementById('loginModal').style.display='none'" 
-       class="w3-button w3-teal w3-xlarge w3-display-topright">×</span>
+       class="w3-button w3-teal w3-xlarge w3-display-topright">Ã—</span>
         <h2 class="w3-wide"><i class="fa fa-suitcase w3-margin-right"></i>Login</h2>
       </header>
       <form:form action='/CheckLoginUser' method='post' modelAttribute="user">
